@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pr6</string>
+    <string-array name="array_city">
+        <item>keshod</item>
+        <item>junagadh</item>
+        <item>rajkot</item>
+        <item>ahmedabad</item>
+        <item>surat</item>
+        <item>mehasana</item>
+        <item>gandhinagar</item>
+        <item>baroda</item>
+        <item>somnath</item>
+        <item>jamnagar</item>
+        <item>valsad</item>
+        <item>vapi</item>
+    </string-array>
+
+
+</resources>
