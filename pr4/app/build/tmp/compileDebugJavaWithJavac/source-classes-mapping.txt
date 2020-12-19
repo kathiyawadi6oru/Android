@@ -1,0 +1,15 @@
+com/example/pr4/BuildConfig.java
+ com.example.pr4.BuildConfig
+com/example/pr4/MainActivity.java
+ com.example.pr4.MainActivity
+ com.example.pr4.MainActivity$1
+ com.example.pr4.MainActivity$1$1
+ com.example.pr4.MainActivity$2
+ com.example.pr4.MainActivity$3
+ com.example.pr4.MainActivity$3$1
+ com.example.pr4.MainActivity$4
+com/example/pr4/MainActivity2.java
+ com.example.pr4.MainActivity2
+ com.example.pr4.MainActivity2$1
+ com.example.pr4.MainActivity2$1$1
+ com.example.pr4.MainActivity2$1$2

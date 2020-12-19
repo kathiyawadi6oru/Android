@@ -1,0 +1,12 @@
+com/example/pr10/BuildConfig.java
+ com.example.pr10.BuildConfig
+com/example/pr10/MyCoreDatabase.java
+ com.example.pr10.MyCoreDatabase
+com/example/pr10/MainActivity.java
+ com.example.pr10.MainActivity
+ com.example.pr10.MainActivity$1
+ com.example.pr10.MainActivity$2
+ com.example.pr10.MainActivity$3
+ com.example.pr10.MainActivity$4
+ com.example.pr10.MainActivity$5
+ com.example.pr10.MainActivity$6

@@ -1,0 +1,11 @@
+com/example/pr8/BuildConfig.java
+ com.example.pr8.BuildConfig
+com/example/pr8/MyCoreDatabase.java
+ com.example.pr8.MyCoreDatabase
+com/example/pr8/MainActivity.java
+ com.example.pr8.MainActivity
+ com.example.pr8.MainActivity$1
+ com.example.pr8.MainActivity$2
+ com.example.pr8.MainActivity$3
+ com.example.pr8.MainActivity$4
+ com.example.pr8.MainActivity$5

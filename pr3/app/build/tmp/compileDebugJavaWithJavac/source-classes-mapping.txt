@@ -1,0 +1,11 @@
+com/example/pr3/BuildConfig.java
+ com.example.pr3.BuildConfig
+com/example/pr3/MainActivity.java
+ com.example.pr3.MainActivity
+ com.example.pr3.MainActivity$1
+ com.example.pr3.MainActivity$2
+ com.example.pr3.MainActivity$3
+ com.example.pr3.MainActivity$4
+ com.example.pr3.MainActivity$4$1
+ com.example.pr3.MainActivity$5
+ com.example.pr3.MainActivity$5$1

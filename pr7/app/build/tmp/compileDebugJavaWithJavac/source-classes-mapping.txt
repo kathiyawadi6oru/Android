@@ -1,0 +1,8 @@
+com/example/pr7/MainActivity.java
+ com.example.pr7.MainActivity
+ com.example.pr7.MainActivity$1
+ com.example.pr7.MainActivity$2
+ com.example.pr7.MainActivity$3
+ com.example.pr7.MainActivity$4
+com/example/pr7/BuildConfig.java
+ com.example.pr7.BuildConfig

@@ -1,0 +1,7 @@
+com/example/pr1/MainActivity2.java
+ com.example.pr1.MainActivity2
+com/example/pr1/MainActivity.java
+ com.example.pr1.MainActivity
+ com.example.pr1.MainActivity$1
+com/example/pr1/BuildConfig.java
+ com.example.pr1.BuildConfig

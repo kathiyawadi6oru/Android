@@ -1,0 +1,21 @@
+com/example/pr6/listdemo.java
+ com.example.pr6.listdemo
+ com.example.pr6.listdemo$1
+com/example/pr6/recyclerview.java
+ com.example.pr6.recyclerview
+com/example/pr6/MyAdapter.java
+ com.example.pr6.MyAdapter
+com/example/pr6/MyData.java
+ com.example.pr6.MyData
+com/example/pr6/BuildConfig.java
+ com.example.pr6.BuildConfig
+com/example/pr6/RecyclerAdapter.java
+ com.example.pr6.RecyclerAdapter
+ com.example.pr6.RecyclerAdapter$ViewHolder
+com/example/pr6/customadapter.java
+ com.example.pr6.customadapter
+ com.example.pr6.customadapter$1
+com/example/pr6/MainActivity.java
+ com.example.pr6.MainActivity
+ com.example.pr6.MainActivity$1
+ com.example.pr6.MainActivity$1$1

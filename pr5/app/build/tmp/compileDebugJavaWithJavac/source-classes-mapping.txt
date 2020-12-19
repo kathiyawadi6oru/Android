@@ -1,0 +1,13 @@
+com/example/pr5/BuildConfig.java
+ com.example.pr5.BuildConfig
+com/example/pr5/newactivity.java
+ com.example.pr5.newactivity
+com/example/pr5/MainActivity.java
+ com.example.pr5.MainActivity
+ com.example.pr5.MainActivity$1
+ com.example.pr5.MainActivity$2
+ com.example.pr5.MainActivity$3
+com/example/pr5/calc.java
+ com.example.pr5.calc
+ com.example.pr5.calc$1
+ com.example.pr5.calc$2

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_all.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\select_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_rv.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\row_item_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customadapter.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\activity_customadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\menu\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recyclerview.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\activity_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\green.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\drawable\\red.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylist.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\mylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listdemo.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\layout\\activity_listdemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\build\\intermediates\\res\\merged\\debug\\menu_context_menu.xml.flat",
+        "source": "C:\\Users\\mayank vachhani\\AndroidStudioProjects\\pr6\\app\\src\\main\\res\\menu\\context_menu.xml"
+    }
+]
