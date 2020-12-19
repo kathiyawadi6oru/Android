@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr4</string>
+    <string-array name="courses">
+        <item>Bsc(ca&amp;it)</item>
+        <item>Msc(ca&amp;it)</item>
+        <item>BCA</item>
+        <item>MCA</item>
+    </string-array>
+</resources>
