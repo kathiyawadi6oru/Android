@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/tvheader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Registration Form"
+                android:textSize="30dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="44dp"
+                android:text="No"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvheader" />
+
+            <EditText
+                android:id="@+id/etno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:ems="10"
+                android:inputType="number"
+                app:layout_constraintStart_toEndOf="@+id/tvno"
+                app:layout_constraintTop_toTopOf="@+id/tvno" />
+
+            <TextView
+                android:id="@+id/tvname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="76dp"
+                android:text="Name"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvno" />
+
+            <EditText
+                android:id="@+id/etname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                app:layout_constraintStart_toEndOf="@+id/tvname"
+                app:layout_constraintTop_toTopOf="@+id/tvname" />
+
+            <TextView
+                android:id="@+id/tvaddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="72dp"
+                android:text="Address"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvname" />
+
+            <EditText
+                android:id="@+id/etaddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine"
+                app:layout_constraintStart_toEndOf="@+id/tvaddress"
+                app:layout_constraintTop_toTopOf="@+id/tvaddress" />
+
+            <TextView
+                android:id="@+id/tvcity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="76dp"
+                android:text="City"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvaddress" />
+
+            <EditText
+                android:id="@+id/etcity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                app:layout_constraintStart_toEndOf="@+id/tvcity"
+                app:layout_constraintTop_toTopOf="@+id/tvcity" />
+
+            <TextView
+                android:id="@+id/tvgender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="68dp"
+                android:text="Gender"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvcity" />
+
+            <RadioGroup
+                android:id="@+id/rbgoup"
+                android:layout_width="223dp"
+                android:layout_height="115dp"
+                android:layout_marginStart="68dp"
+                app:layout_constraintStart_toEndOf="@+id/tvgender"
+                app:layout_constraintTop_toTopOf="@+id/tvgender">
+
+                <RadioButton
+                    android:id="@+id/rbmale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="80dp"
+                    android:text="Male"
+                    android:textSize="15dp"
+                    app:layout_constraintStart_toEndOf="@+id/tvgender"
+                    app:layout_constraintTop_toTopOf="@+id/tvgender" />
+
+                <RadioButton
+                    android:id="@+id/rbfemale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:text="Female"
+                    android:textSize="15dp"
+                    app:layout_constraintStart_toEndOf="@+id/rbmale"
+                    app:layout_constraintTop_toTopOf="@+id/rbmale" />
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/tvbdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="120dp"
+                android:text="Birth Date"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvgender" />
+
+            <TextView
+                android:id="@+id/tvselectbdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:text="Select Your Birth Date"
+                android:textSize="15dp"
+                app:layout_constraintStart_toEndOf="@+id/tvbdate"
+                app:layout_constraintTop_toTopOf="@+id/tvbdate" />
+
+            <TextView
+                android:id="@+id/tvcno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="40dp"
+                android:text="Contact No"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvbdate" />
+
+            <EditText
+                android:id="@+id/etcno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="36dp"
+                android:maxLength="10"
+                android:ems="10"
+                android:inputType="phone"
+                app:layout_constraintStart_toEndOf="@+id/tvcno"
+                app:layout_constraintTop_toTopOf="@+id/tvcno" />
+
+            <TextView
+                android:id="@+id/tvmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="64dp"
+                android:text="E-mail"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvcno" />
+
+            <EditText
+                android:id="@+id/etmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:ems="10"
+                android:inputType="textEmailAddress"
+                app:layout_constraintStart_toEndOf="@+id/tvmail"
+                app:layout_constraintTop_toTopOf="@+id/tvmail" />
+
+            <TextView
+                android:id="@+id/tvcourse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="64dp"
+                android:text="Course"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvmail" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="240dp"
+                android:layout_height="23dp"
+                android:layout_marginStart="80dp"
+                android:entries="@array/courses"
+                app:layout_constraintStart_toEndOf="@+id/tvcourse"
+                app:layout_constraintTop_toTopOf="@+id/tvcourse" />
+
+            <TextView
+                android:id="@+id/tvinterest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="48dp"
+                android:text="Interest"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvcourse" />
+
+            <CheckBox
+                android:id="@+id/cbwebdevlopment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:text="Web Devlopment"
+                app:layout_constraintStart_toEndOf="@+id/tvinterest"
+                app:layout_constraintTop_toTopOf="@+id/tvinterest" />
+
+            <CheckBox
+                android:id="@+id/cbios"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:text="IOS"
+                app:layout_constraintStart_toEndOf="@+id/cbwebdevlopment"
+                app:layout_constraintTop_toTopOf="@+id/cbwebdevlopment" />
+
+            <CheckBox
+                android:id="@+id/cbandroid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Android"
+                app:layout_constraintStart_toStartOf="@+id/cbwebdevlopment"
+                app:layout_constraintTop_toBottomOf="@+id/cbwebdevlopment" />
+
+            <CheckBox
+                android:id="@+id/cbwebdesigning"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:text="Web Designing"
+                app:layout_constraintStart_toEndOf="@+id/cbandroid"
+                app:layout_constraintTop_toTopOf="@+id/cbandroid" />
+
+            <TextView
+                android:id="@+id/tvrating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="48dp"
+                android:text="Rating"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cbandroid" />
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                app:layout_constraintStart_toEndOf="@+id/tvrating"
+                app:layout_constraintTop_toTopOf="@+id/tvrating" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="84dp"
+                android:text="ToggleButton"
+                android:textOff="NO"
+                android:textOn="YES"
+                app:layout_constraintStart_toEndOf="@+id/tvtoggle"
+                app:layout_constraintTop_toTopOf="@+id/tvtoggle" />
+
+            <TextView
+                android:id="@+id/tvtoggle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="100dp"
+                android:text="Are You Student?"
+                android:textSize="20dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvrating" />
+
+            <Button
+                android:id="@+id/bsubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="64dp"
+                android:text="Submit"
+                android:textSize="25dp"
+                app:layout_constraintStart_toStartOf="@+id/toggleButton"
+                app:layout_constraintTop_toBottomOf="@+id/toggleButton" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
